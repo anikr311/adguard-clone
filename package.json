@@ -1,0 +1,10 @@
+{
+  "name": "adguard-clone",
+  "version": "1.0.0",
+  "description": "1:1 local reverse-engineered clone of https://adguard.com built with REA (Reverse Engineer Anything)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}

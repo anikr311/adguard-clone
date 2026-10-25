@@ -1,0 +1,85 @@
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 300;
+    font-style: normal;
+    src: local("Roboto-Light"), url("../../../st2.adguardcdn.com/fonts/roboto/light.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 300;
+    font-style: normal;
+    src: local("Roboto-Light"), url("../../../st2.adguardcdn.com/fonts/roboto/light-cyr.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/light-cyr.woff") format("woff");
+    unicode-range: U+0400-04FF;
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Roboto-Regular"), url("../../../st2.adguardcdn.com/fonts/roboto/regular.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Roboto-Regular"), url("../../../st2.adguardcdn.com/fonts/roboto/regular-cyr.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/regular-cyr.woff") format("woff");
+    unicode-range: U+0400-04FF;
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    src: local("Roboto-Medium"), url("../../../st2.adguardcdn.com/fonts/roboto/medium.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    src: local("Roboto-Medium"), url("../../../st2.adguardcdn.com/fonts/roboto/medium-cyr.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/medium-cyr.woff") format("woff");
+    unicode-range: U+0400-04FF;
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Roboto-Bold"), url("../../../st2.adguardcdn.com/fonts/roboto/bold.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Roboto-Bold"), url("../../../st2.adguardcdn.com/fonts/roboto/bold-cyr.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/bold-cyr.woff") format("woff");
+    unicode-range: U+0400-04FF;
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    src: local("Roboto-Black"), url("../../../st2.adguardcdn.com/fonts/roboto/black.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/black.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    src: local("Roboto-Black"), url("../../../st2.adguardcdn.com/fonts/roboto/black-cyr.woff2") format("woff2"), url("../../../st2.adguardcdn.com/fonts/roboto/black-cyr.woff") format("woff");
+    unicode-range: U+0400-04FF;
+}
