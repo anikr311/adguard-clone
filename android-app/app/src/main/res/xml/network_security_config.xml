@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AdLocko never needs cleartext traffic: DNS runs over UDP sockets the
+     app protects itself, and the blocklist update is HTTPS-only. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>
