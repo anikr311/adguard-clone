@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AdGuardAndroid"
+rootProject.name = "AdLocko"
 include(":app")

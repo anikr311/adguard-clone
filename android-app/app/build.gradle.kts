@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.adguard.android.clone"
+    namespace = "com.adlocko.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.adguard.android.clone"
+        applicationId = "com.adlocko.app"
         minSdk = 24
         targetSdk = 34
-        versionCode = 41500
-        versionName = "4.15.0"
+        versionCode = 1
+        versionName = "1.0.0"
     }
 
     buildTypes {
