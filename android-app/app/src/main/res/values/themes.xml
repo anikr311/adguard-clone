@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AdGuard" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:statusBarColor">#13171D</item>
+        <item name="android:navigationBarColor">#181D25</item>
+        <item name="android:windowBackground">#13171D</item>
+    </style>
+</resources>
